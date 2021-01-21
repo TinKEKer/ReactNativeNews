@@ -2,7 +2,8 @@
 
 
 ### Some information about project:
-Just a simple app for testing my React-Native skills.This app has 4 screens and drawer(to navigate between them).News screen is simple bitcoin news screen with preview of some news,after clicking on some of it,you will navigate to DetailNews screen with cool SharedElement effect).
+Just a simple app for testing my React-Native skills.This app has 4 screens and drawer(to navigate between them).
+News screen is simple bitcoin news screen with preview of some news,after clicking on some of it,you will navigate to DetailNews screen with cool SharedElement effect).
 QRCode screen allows you to generate simple QRCode from string + you have opportunity to remake it.Creating QRCode accompanied by interesting animation.
 Camera screen allows you to take a photo and instantly upload your image to server(image uploaded in base64 format).
 Profile screen is protected with authentication(default login:User,password:123456).
@@ -18,7 +19,7 @@ Authentication route is done by me,so in fact that's HOC which can be dynamicly 
 * [React-Native-Vector-Icons](https://github.com/oblador/react-native-vector-icons)
 * [React-Native-Animatable](https://github.com/oblador/react-native-animatable)
 * [React-Native-Camera](https://github.com/react-native-camera/react-native-camera)
-* [React-Native-QRCODE-SVG(https://github.com/awesomejerry/react-native-qrcode-svg)
+* [React-Native-QRCODE-SVG](https://github.com/awesomejerry/react-native-qrcode-svg)
 * [React-Navigation-Shared-Element](https://github.com/IjzerenHein/react-navigation-shared-element)
 * [React-Native-Touchable-Scale](https://github.com/kohver/react-native-touchable-scale)
 
