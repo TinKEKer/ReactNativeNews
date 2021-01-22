@@ -3,7 +3,7 @@
 
 ### Some information about project:
 Just a simple app for testing my React-Native skills.This app has 4 screens and drawer(to navigate between them).
-News screen is simple bitcoin news screen with preview of some news,after clicking on some of it,you will navigate to DetailNews screen with cool SharedElement effect).
+News screen is simple bitcoin news screen with preview of some of them,after clicking on some of it,you will navigate to DetailNews screen with cool SharedElement effect).
 QRCode screen allows you to generate simple QRCode from string + you have opportunity to remake it.Creating QRCode accompanied by interesting animation.
 Camera screen allows you to take a photo and instantly upload your image to server(image uploaded in base64 format).
 Profile screen is protected with authentication(default login:User,password:123456).
